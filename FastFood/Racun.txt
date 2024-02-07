@@ -1,0 +1,8 @@
+Proizvod	Kolicina	Cena	Vrednost
+Obrok		2		500	1000
+Pomfrit		2		270	540
+
+
+Adresa
+Iznos 1540
+Napomena
