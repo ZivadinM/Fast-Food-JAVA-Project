@@ -2,8 +2,8 @@
 
 ## Description
 
-This project is a Java-based application where i make fast food delivery app. It leverages the power of Java to register/login user and choose the products that the user wants to order.
-This README.md file serves as a guide to understand the project, its functionalities, and how to use it.
+This project is a Java-based application where I make a fast food delivery app. It leverages the power of Java to register/login users and choose the products that the user wants to order.
+This README.md file serves as a guide to understanding the project, its functionalities, and how to use it.
 
 ## Table of Contents
 
